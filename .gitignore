@@ -1,0 +1,22 @@
+# --- Arquivos do Sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Arquivos do VS Code ---
+.vscode/
+*.code-workspace
+
+# --- Logs e Arquivos Temporários ---
+*.log
+*.tmp
+*.bak
+
+# --- Arquivos específicos de Banco de Dados ---
+*.dmp
+*.log
+*.out
+
+# --- OneDrive e Backup ---
+*.sync
+*.tmp
